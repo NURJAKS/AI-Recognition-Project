@@ -1,7 +1,4 @@
-
-
-```markdown
-# 🧠 Object Recognition System (OpenCV + KNN, Real-Time Detection)
+#  Object Recognition System (OpenCV + KNN, Real-Time Detection)
 
 Современная система распознавания объектов в реальном времени на Python.  
 Использует OpenCV, KNN-классификатор и собственный pipeline обработки изображений.
